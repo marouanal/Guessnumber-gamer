@@ -1,0 +1,15 @@
+/Users/marouanalouache/Projects/firstpro/firstpro/bin/Release/net7.0/firstpro
+/Users/marouanalouache/Projects/firstpro/firstpro/bin/Release/net7.0/firstpro.deps.json
+/Users/marouanalouache/Projects/firstpro/firstpro/bin/Release/net7.0/firstpro.runtimeconfig.json
+/Users/marouanalouache/Projects/firstpro/firstpro/bin/Release/net7.0/firstpro.dll
+/Users/marouanalouache/Projects/firstpro/firstpro/bin/Release/net7.0/firstpro.pdb
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.csproj.AssemblyReference.cache
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.AssemblyInfoInputs.cache
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.AssemblyInfo.cs
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.csproj.CoreCompileInputs.cache
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.dll
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/refint/firstpro.dll
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.pdb
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/firstpro.genruntimeconfig.cache
+/Users/marouanalouache/Projects/firstpro/firstpro/obj/Release/net7.0/ref/firstpro.dll
